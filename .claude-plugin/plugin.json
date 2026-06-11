@@ -1,7 +1,7 @@
 {
   "name": "reply-copilot",
   "displayName": "Reply Copilot",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Drafts grounded replies to customer and colleague emails and Slack messages for Netskope solutions engineers. Researches every technical claim in Rovo (Jira + Confluence) and the official Netskope documentation, finds and attaches relevant Google Drive collateral, matches your writing voice, and leaves a Gmail or Slack draft ready for you to review and send.",
   "author": {
     "name": "Tim O'Connor"
